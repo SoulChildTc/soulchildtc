@@ -84,7 +84,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soulchildtc&show_icons=true&locale=en&hide_border=true" alt="soulchild" />
 
-<img align="left" alt="img" src="https://github.com/SoulChildTc/SoulChildTc/blob/main/cover.jpg?raw=true" width="65%" height="auto"/>
+<img align="left" alt="img" src="https://github.com/SoulChildTc/SoulChildTc/blob/main/cover.jpg?raw=true" width="50%" height="auto"/>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=soulchildtc&show_icons=true&locale=en&hide_border=true" alt="soulchild" />
